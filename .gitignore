@@ -1,0 +1,3 @@
+.npmignore
+build
+node_modules
